@@ -1,6 +1,6 @@
 # tr-socialasst
 
-*This academic essay was prepared for the undergraduate ECON481 (Turkish Economy) course at Koç University.*
+this academic essay was prepared for the undergraduate course ECON481 (Turkish Economy) at Koç University
 
 **Title:** Political Economy of Social Assistance in the Justice and Development Party (AKP) Era
 
